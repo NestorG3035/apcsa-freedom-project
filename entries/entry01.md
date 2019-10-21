@@ -4,7 +4,7 @@
 The tool I considered for this project was the Arduino kit and Makey Makey set. 
 I decided to use the Arduino kit can be used to deal with voltage and switches which is something that my idea needs in order to function properly.
 I chose the Arduino kit over the Makey Makey set because more professionals use the Arduino kit to deal with real life projects. 
-I want to create ####SmartGlass. SmartGlass is a sort of technology that is not very popular amongst individuals. 
+I want to create SmartGlass. SmartGlass is a sort of technology that is not very popular amongst individuals. 
 With SmartGlass, one can live a more private life. Smart glass becomes blurry with the flip of a switch and blocks view of whats inside and outside of your home.
 Smart requires voltage because electricity is what causes the compound in the glass to become blurry. 
 Arduino was the best tool for this because as stated earlier, it deals with voltage and switches. 
