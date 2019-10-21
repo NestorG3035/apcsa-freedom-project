@@ -1,11 +1,12 @@
 # APCSA Freedom Project
-by Your Name Here
+by Nestor Gonzalez
 
 ## Context
-Text
+Here you will find blog entries regarding my Freedom Project. Updates on my progress and setbacks I have faced.
 
 ## Content
-Text
+Textgit add .
+
 
 ## Links
 
