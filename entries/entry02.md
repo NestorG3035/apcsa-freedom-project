@@ -1,6 +1,6 @@
 # Entry 2
 ##### 11/19/19
-#### **Sources:**
+### **Sources:**
 I am using the Tinkercad Website to simulate the Arduino Project. This simulation allows me to tinker with the arduino board, wires and gadgets that each have different functions.
 This provides a free learning experience for the user.  
 I am also the Arduino to learn how to use the Arduino board and its little gadgets. The arduino software provides Mini Lessons/examples that teach the user how to use the Arduino commands and instruct students how to built useful tools/gadgets.
