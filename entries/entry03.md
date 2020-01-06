@@ -2,8 +2,8 @@
 ##### 1/5/19
 ### **Sources:**
 As I stated in my previous blog entry, I am using the Tinkercad Arduino board simulator. This allows me to tinker with an artificial Arduino board for FREE. It includes all the features of the arduino. Not only do I save money, I dont have to deal with wires and losing little arduino parts. I dont have to deal with packing things up or putting parts where they go, this method is time efficient.  The Arduino Software provides free lessons and examples to help the user learn how to tinker with the arduino to create awesome projects.  
-**Links:**
-Tinkercad: https://www.tinkercad.com
+**Links:**  
+Tinkercad: https://www.tinkercad.com  
 Arduino: https://www.arduino.cc/en/Tutorial/BuiltInExamples
 
 ### **Engineering Process Design:**
